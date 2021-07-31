@@ -1,76 +1,37 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Hello Microverse
 
-# Project Name
+Hello Microverse Project
 
-> One paragraph statement about the project.
+<i>Built With HTML5, CSS3, GIT, Bootstrap, SASS and VSCODE</i>
 
-![screenshot](./app_screenshot.png)
+Live Demo : [The-livedemo-link]()
 
-Additional description about the project and its features.
-
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+<h1>Getting Started</h1>
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+1. Go to https://karvel-code.github.io/Microverse-Capstone/index.html
+2. Click on code and copy the html code.
+3. Use git bash to clone this repository on your local machine.
+4. Run git checkout -b your-branch-name Make your contributions
+5. Push your branch up to your forked repository
+6. Open a Pull Request with a detailed description to the development branch of the original project for a review
 
-### Setup
+Prerequisites Text editor, Github profile and Git.
 
-### Install
+<h2>Author</h2>
 
-### Usage
+👤 Elvis (Karvel) Kariithi Gitinji
 
-### Run tests
+- Github: [@karvel-code](https://github.com/karvel-code)
+- Linkedin: [Elvis Kariithi](https://www.linkedin.com/in/elvis-kariithi-b6b5b31b6/)
+<h2>
+🤝 Contributing 
+</h2>
+Contributions, issues and feature requests are welcome!
 
-### Deployment
+Feel free to check the issues page.
 
+Show your support Give a ⭐️ if you like this project!
 
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+📝 License This project is a collaboration project of microverse students. All rights are reserved for Elvis (Karvel) Kariithi Githinji
